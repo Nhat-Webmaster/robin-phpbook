@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>Lavitos.com</title>
+        <title>Lavitos.com Commercial Site</title>
     </head>
     <body>
         <?php
-        // put your code here
+        
         ?>
     </body>
 </html>
