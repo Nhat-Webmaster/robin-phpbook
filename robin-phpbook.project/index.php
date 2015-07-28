@@ -4,7 +4,7 @@
     </head>
     <body>
         <?php
-            echo "dawwag bepppppple ...";
+            echo "dawwag ooooo ...";
         ?>
     </body>
 </html>
